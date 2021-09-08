@@ -23,7 +23,6 @@ theme = "hugo-awesome-identity"
   poweredBy = false
 
 
-
 [params.contacts]
   email = "scarlettobarnunez@gmail.com"
   github = "skrlet13"
