@@ -1,0 +1,30 @@
+baseURL = 'https://skrlet13.github.io/'
+languageCode = 'es-cl'
+title = 'Scarlet Tobar Nuñez'
+theme = "hugo-awesome-identity"
+
+## Profile Configurations
+[params.profile]
+  portrait = "images/p.png"
+  firstname = "Scarlet"
+  lastname = "Tobar"
+  title = "Estudiante de Ingeniería Civil en COmputación e Informática"
+  bio = """Actualmente estudiando Ingeniería Civil en Computación e Informática en la Universidad Católica del Norte y Ayudante de Lenguajes de Programación en la misma institución.
+  
+  Idiomas: Español, Inglés
+  
+  Experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux
+  """
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "©Scarlet Tobar Núñez"
+  poweredBy = false
+
+
+
+[params.contacts]
+  email = "scarlettobarnunez@gmail.com"
+  github = "skrlet13"
+  linkedin = "scarlet-tobar-núñez-648863161"
