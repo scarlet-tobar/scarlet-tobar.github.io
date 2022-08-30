@@ -1,4 +1,4 @@
-baseURL = 'https://skrlet13.github.io/'
+baseURL = 'https://scarlet-tobar.github.io/'
 languageCode = 'es-cl'
 title = 'Scarlet Tobar Nuñez'
 theme = "hugo-awesome-identity"
@@ -8,7 +8,7 @@ theme = "hugo-awesome-identity"
   portrait = "p.png"
   firstname = "Scarlet"
   lastname = "Tobar"
-  title = "Estudiante de Ingeniería Civil en COmputación e Informática"
+  title = "Estudiante de Ingeniería Civil en Computación e Informática"
   bio = """Actualmente estudiando Ingeniería Civil en Computación e Informática en la Universidad Católica del Norte y Ayudante de Lenguajes de Programación en la misma institución.
   
   Idiomas: Español, Inglés
@@ -25,5 +25,5 @@ theme = "hugo-awesome-identity"
 
 [params.contacts]
   email = "scarlettobarnunez@gmail.com"
-  github = "skrlet13"
-  linkedin = "scarlet-tobar-núñez-648863161"
+  github = "scarlet-tobar"
+  linkedin = "scarlet-tobar"
