@@ -1,3 +1,6 @@
 [submodule "themes/hugo-awesome-identity"]
 	path = themes/hugo-awesome-identity
 	url = https://github.com/posquit0/hugo-awesome-identity
+[submodule "themes/awesome-identity"]
+	path = themes/awesome-identity
+	url = https://github.com/posquit0/hugo-awesome-identity

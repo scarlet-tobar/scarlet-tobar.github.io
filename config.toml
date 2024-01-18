@@ -1,29 +1,58 @@
 baseURL = 'https://scarlet-tobar.github.io/'
-languageCode = 'es-cl'
+languageCode = 'es'
 title = 'Scarlet Tobar Nuñez'
-theme = "hugo-awesome-identity"
+theme = "awesome-identity"
 
-## Profile Configurations
-[params.profile]
-  portrait = "p.png"
-  firstname = "Scarlet"
-  lastname = "Tobar"
-  title = "Estudiante de Ingeniería Civil en Computación e Informática"
-  bio = """Actualmente estudiando Ingeniería Civil en Computación e Informática en la Universidad Católica del Norte y Ayudante de Lenguajes de Programación en la misma institución.
-  
-  Idiomas: Español, Inglés
-  
-  Experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux
-  """
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir = true
 
-
-## Footer Configurations
-[params.footer]
-  copyright = "©Scarlet Tobar Núñez"
-  poweredBy = false
+[languages]
+	[languages.en]
+		contentDir = 'content/en'
+		## Profile Configurations
+		[languages.en.params.profile]
+		  portrait = "p.png"
+		  firstname = "Scarlet"
+		  lastname = "Tobar"
+		  title = "Computer Engineer"
+		  bio = """
+		  Computer Engineer from Universidad Católica del Norte.
+		  Español, English.
+		  I have experience with Wordpress, C++, Python, Scheme, GNU/Linux system administration, Fediverse."""
 
 
-[params.contacts]
-  email = "scarlettobarnunez@gmail.com"
-  github = "scarlet-tobar"
-  linkedin = "scarlet-tobar"
+		## Footer Configurations
+		[languages.en.params.footer]
+		  copyright = "©Scarlet Tobar Núñez"
+		  poweredBy = false
+
+
+		[languages.en.params.contacts]
+		  email = "scarlettobarnunez@gmail.com"
+		  github = "scarlet-tobar"
+		  linkedin = "scarlet-tobar"
+		
+	[languages.es]
+		contentDir= 'content/es'
+		## Profile Configurations
+		[languages.es.params.profile]
+		  portrait = "p.png"
+		  firstname = "Scarlet"
+		  lastname = "Tobar"
+		  title = "Ingeniere Civil en Computación e Informática"
+		  bio = """
+		  Ingeniere Civil en Computación e Informática egresade la Universidad Católica del Norte.
+		  Español, English
+		  Tengo experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux, Fediverso."""
+
+
+		## Footer Configurations
+		[languages.es.params.footer]
+		  copyright = "©Scarlet Tobar Núñez"
+		  poweredBy = false
+
+
+		[languages.es.params.contacts]
+		  email = "scarlettobarnunez@gmail.com"
+		  github = "scarlet-tobar"
+		  linkedin = "scarlet-tobar"
