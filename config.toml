@@ -31,6 +31,10 @@ defaultContentLanguageInSubdir = true
 		  email = "scarlettobarnunez@gmail.com"
 		  github = "scarlet-tobar"
 		  linkedin = "scarlet-tobar"
+		 
+		[[languages.en.params.actions]]
+		  name = "CV"
+		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-EN.pdf"
 		
 	[languages.es]
 		contentDir= 'content/es'
@@ -56,3 +60,7 @@ defaultContentLanguageInSubdir = true
 		  email = "scarlettobarnunez@gmail.com"
 		  github = "scarlet-tobar"
 		  linkedin = "scarlet-tobar"
+		  
+		[[languages.es.params.actions]]
+		  name = "CV"
+		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-ES.pdf"
