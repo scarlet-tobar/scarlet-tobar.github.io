@@ -18,6 +18,7 @@ defaultContentLanguageInSubdir = true
 		  bio = """
 		  Computer Engineer from Universidad Católica del Norte.
 		  Español, English.
+		  I maintain Chilemasto.
 		  I have experience with Wordpress, C++, Python, Scheme, GNU/Linux system administration, Fediverse."""
 
 
@@ -33,6 +34,10 @@ defaultContentLanguageInSubdir = true
 		  linkedin = "scarlet-tobar"
 		 
 		[[languages.en.params.actions]]
+		  name = "Chilemasto"
+		  url = "https://home.chilemasto.casa"
+
+		[[languages.en.params.actions]]
 		  name = "CV"
 		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-EN.pdf"
 		
@@ -47,6 +52,7 @@ defaultContentLanguageInSubdir = true
 		  bio = """
 		  Ingeniere Civil en Computación e Informática egresade la Universidad Católica del Norte.
 		  Español, English
+		  Administro Chilemasto.
 		  Tengo experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux, Fediverso."""
 
 
@@ -60,6 +66,10 @@ defaultContentLanguageInSubdir = true
 		  email = "scarlettobarnunez@gmail.com"
 		  github = "scarlet-tobar"
 		  linkedin = "scarlet-tobar"
+
+		[[languages.es.params.actions]]
+		  name = "Chilemasto"
+		  url = "https://home.chilemasto.casa"
 		  
 		[[languages.es.params.actions]]
 		  name = "CV"
