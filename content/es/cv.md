@@ -4,7 +4,7 @@ date: 2024-01-17T21:46:25-03:00
 draft: false
 ---
 
-Ingeniere Civil en Computación e Informática en la Universidad Católica del Norte.  Persona responsable,
+Ingeniera Civil en Computación e Informática en la Universidad Católica del Norte.  Persona responsable,
 asertiva y perseverante. Experiencia con GNU/Linux, Fediverso, Python, C++, Office, Power BI, conexiones
 a bases de datos y Scheme.
 
