@@ -48,9 +48,9 @@ defaultContentLanguageInSubdir = true
 		  portrait = "p.png"
 		  firstname = "Scarlet"
 		  lastname = "Tobar"
-		  title = "Ingeniere Civil en Computación e Informática"
+		  title = "Ingeniera Civil en Computación e Informática"
 		  bio = """
-		  Ingeniere Civil en Computación e Informática egresade la Universidad Católica del Norte.
+		  Ingeniera Civil en Computación e Informática egresade la Universidad Católica del Norte.
 		  Español, English
 		  Administro Chilemasto.
 		  Tengo experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux, Fediverso."""
