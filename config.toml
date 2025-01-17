@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = true
 		  lastname = "Tobar"
 		  title = "Ingeniera Civil en Computación e Informática"
 		  bio = """
-		  Ingeniera Civil en Computación e Informática egresade la Universidad Católica del Norte.
+		  Ingeniera Civil en Computación e Informática egresada la Universidad Católica del Norte.
 		  Español, English
 		  Administro Chilemasto.
 		  Tengo experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux, Fediverso."""
