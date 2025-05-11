@@ -19,7 +19,9 @@ defaultContentLanguageInSubdir = true
 		  Computer Engineer from Universidad Católica del Norte.
 		  Español, English.
 		  I maintain Chilemasto.
-		  I have experience with Wordpress, C++, Python, Scheme, GNU/Linux system administration, Fediverse."""
+		  I have experience with Wordpress, C++, Python, Scheme, GNU/Linux system administration, Fediverse.
+    		  Please use contact info below for professional purposes.
+    """
 
 
 		## Footer Configurations
@@ -53,7 +55,9 @@ defaultContentLanguageInSubdir = true
 		  Ingeniera Civil en Computación e Informática egresada la Universidad Católica del Norte.
 		  Español, English
 		  Administro Chilemasto.
-		  Tengo experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux, Fediverso."""
+		  Tengo experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux, Fediverso.
+    		  Por favor use la información de contacto abajo para contacto profesional.
+    """
 
 
 		## Footer Configurations
