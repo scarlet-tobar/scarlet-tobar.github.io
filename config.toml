@@ -55,7 +55,7 @@ defaultContentLanguageInSubdir = true
 		  firstname = "Scarlet"
 		  lastname = "Tobar"
 		  title = "Ingeniera Civil en Computación e Informática"
-		  bio = """https://scarlet-tobar.github.com
+		  bio = """
 		  Ingeniera Civil en Computación e Informática egresada la Universidad Católica del Norte.
 		  Español, English
 		  Administro Chilemasto.
@@ -83,6 +83,6 @@ defaultContentLanguageInSubdir = true
 		  name = "CV"
 		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-ES.pdf"
 
-        [[languages.en.params.actions]]
+        [[languages.es.params.actions]]
   		  name = "Añadir contacto"
 	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
