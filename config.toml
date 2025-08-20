@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = true
 		  I maintain Chilemasto.
 		  I have experience with Wordpress, C++, Python, Scheme, GNU/Linux system administration, Fediverse.
     	  Please use contact info below for professional purposes.
-    """
+          """
 
 
 		## Footer Configurations
@@ -60,11 +60,9 @@ defaultContentLanguageInSubdir = true
 		  Español, English
 		  Administro Chilemasto.
 		  Tengo experiencia con Wordpress, C++, Python, Scheme, administración de sistemas GNU/Linux, Fediverso.
-
-                  También Instaladora de gas Clase 3 en Chile, con disponibilidad para crear Planos y Proyectos hasta 60 kW de potencia.
-    		  
-                  Por favor use la información de contacto abajo para contacto profesional.
-                  """
+	      También Instaladora de gas Clase 3 en Chile, con disponibilidad para crear Planos y Proyectos hasta 60 kW de potencia.
+          Por favor use la información de contacto abajo para contacto profesional.
+          """
 
 
 		## Footer Configurations
@@ -86,5 +84,5 @@ defaultContentLanguageInSubdir = true
 		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-ES.pdf"
 
         [[languages.en.params.actions]]
-  		  name = "Add Contact"
+  		  name = "Añadir contacto"
 	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
