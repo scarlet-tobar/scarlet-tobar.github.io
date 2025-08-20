@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = true
 		  Español, English.
 		  I maintain Chilemasto.
 		  I have experience with Wordpress, C++, Python, Scheme, GNU/Linux system administration, Fediverse.
-    		  Please use contact info below for professional purposes.
+    	  Please use contact info below for professional purposes.
     """
 
 
@@ -43,7 +43,11 @@ defaultContentLanguageInSubdir = true
 		  name = "CV"
 		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-EN.pdf"
 		
-	[languages.es]
+        [[languages.en.params.actions]]
+  		  name = "Add Contact"
+	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
+	
+    [languages.es]
 		contentDir= 'content/es'
 		## Profile Configurations
 		[languages.es.params.profile]
@@ -51,7 +55,7 @@ defaultContentLanguageInSubdir = true
 		  firstname = "Scarlet"
 		  lastname = "Tobar"
 		  title = "Ingeniera Civil en Computación e Informática"
-		  bio = """
+		  bio = """https://scarlet-tobar.github.com
 		  Ingeniera Civil en Computación e Informática egresada la Universidad Católica del Norte.
 		  Español, English
 		  Administro Chilemasto.
@@ -68,7 +72,6 @@ defaultContentLanguageInSubdir = true
 		  copyright = "©Scarlet Tobar Núñez"
 		  poweredBy = false
 
-
 		[languages.es.params.contacts]
 		  email = "scarlettobarnunez@gmail.com"
 		  github = "scarlet-tobar"
@@ -81,3 +84,7 @@ defaultContentLanguageInSubdir = true
 		[[languages.es.params.actions]]
 		  name = "CV"
 		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-ES.pdf"
+
+        [[languages.en.params.actions]]
+  		  name = "Add Contact"
+	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
