@@ -1,4 +1,4 @@
-baseURL = 'https://scarlet-tobar.github.io/'
+baseURL = 'https://scarlet-tobar.work/'
 languageCode = 'es'
 title = 'Scarlet Tobar Nuñez'
 theme = "awesome-identity"
@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = true
 
 
 		[languages.en.params.contacts]
-		  email = "scarlettobarnunez@gmail.com"
+		  email = "me@scarlet-tobar.work"
 		  github = "scarlet-tobar"
 		  linkedin = "scarlet-tobar"
 		 
@@ -71,7 +71,7 @@ defaultContentLanguageInSubdir = true
 		  poweredBy = false
 
 		[languages.es.params.contacts]
-		  email = "scarlettobarnunez@gmail.com"
+		  email = "me@scarlet-tobar.work"
 		  github = "scarlet-tobar"
 		  linkedin = "scarlet-tobar"
 
