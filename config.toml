@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = true
 		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-EN.pdf"
 		
         [[languages.en.params.actions]]
-  		  name = "Add Contact"
+  		  name = "Add Contact (.vcf)"
 	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
 	
     [languages.es]
@@ -84,5 +84,5 @@ defaultContentLanguageInSubdir = true
 		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-ES.pdf"
 
         [[languages.es.params.actions]]
-  		  name = "Añadir contacto"
+  		  name = "Añadir contacto (.vcf)"
 	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
