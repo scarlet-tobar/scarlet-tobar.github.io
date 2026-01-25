@@ -46,6 +46,10 @@ defaultContentLanguageInSubdir = true
         [[languages.en.params.actions]]
   		  name = "Add Contact (.vcf)"
 	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
+
+		[[languages.en.params.actions]]
+  		  name = "OpenPGP"
+	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/public.asc"
 	
     [languages.es]
 		contentDir= 'content/es'
@@ -86,3 +90,7 @@ defaultContentLanguageInSubdir = true
         [[languages.es.params.actions]]
   		  name = "Añadir contacto (.vcf)"
 	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/Scarlet-Tobar-Nunez.vcf"
+		
+		[[languages.es.params.actions]]
+  		  name = "OpenPGP"
+	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/public.asc"
