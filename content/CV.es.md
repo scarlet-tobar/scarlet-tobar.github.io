@@ -2,14 +2,14 @@
 📧: [me@scarlet-tobar.work](mailto:me@scarlet-tobar.work) • 🔗: scarlet-tobar.work/es/
 
 ## Ingeniera Civil en Computación e Informática - Universidad Católica del Norte
-#### Persona responsable, asertiva y perseverante. Experiencia con administración GNU/Linux, Fediverso, Python, JavaScript, Java, Office, Power BI, conexiones a bases de datos, Git, LATEX y Scheme. Además, Instaladora de gas Clase 3 certificada.
+Persona responsable, asertiva y perseverante. Experiencia con administración GNU/Linux, Fediverso, Python, JavaScript, Java, Office, Power BI, conexiones a bases de datos, Git, LATEX y Scheme. Además, Instaladora de gas Clase 3 certificada.
 
-# Experiencia profesional
+## Experiencia profesional
 
 ### Docente de Lenguajes de Programación
 #### Universidad Católica del Norte, Chile. 2026/03 - Presente
-- Para alumnado de Ingeniería Civil en Computación e Informática
-- Asignatura teórica para analizar y entender el funcionamiento y diseño de diferentes lenguajes de programación
+- Para alumnado de Ingeniería Civil en Computación e Informática.
+- Asignatura teórica para analizar y entender el funcionamiento y diseño de diferentes lenguajes de programación.
 
 ### Migración y desarrollo web
 #### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
@@ -42,7 +42,7 @@ fuentes desde Power BI.
 - Apoyo para el profesor de la asignatura.
 - El curso cubre los elementos de un lenguaje de programación, Scheme e intérpretes con la ayuda de PLAI.
 
-# Formación
+## Formación
 ### Ingeniería Civil en Computación e Informática (con distinción)
 #### Universidad Católica del Norte, Chile. 2018 - 2023
 
@@ -53,7 +53,7 @@ fuentes desde Power BI.
 - **Inglés**: C2 (https://cert.efset.org/es/pb9jgQ)
 - **Español**: Nativo
 
-# Proyectos
+## Proyectos
 ### Chilemasto
 #### Proyecto propio, Chile. 2019/09 - Presente
 - Instancias de fediverso activas más antiguas del país. Administración de sistemas y moderación de redes sociales del fediverso tipo Mastodon y Friendica en un servidor GNU/Linux. 

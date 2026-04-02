@@ -1,10 +1,9 @@
 # Scarlet Tobar Núñez
 📧: me@scarlet-tobar.work • 🔗: scarlet-tobar.work/en/
-
 ## Computer Engineer - Universidad Católica del Norte
-#### A responsible, asertive and persistent person. I have experience with GNU/Linux system administration, Fediverse, Python, Java, JavaScript, Office, Power BI, database connections, Git, LATEXand Scheme.
+A responsible, asertive and persistent person. I have experience with GNU/Linux system administration, Fediverse, Python, Java, JavaScript, Office, Power BI, database connections, Git, LATEXand Scheme.
 
-# Professional experience
+## Professional experience
 
 ### Programming Languages Professor
 #### Universidad Católica del Norte, Chile. 2026/03 - Present
@@ -13,7 +12,7 @@
 
 ### Web Data migration and full-stack development
 #### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
-- Full-stack new features and data migration for Totoralillo, EIC’ web servicr.
+- Full-stack new features and data migration for Totoralillo, EIC’ web service.
 - JavaScript, NodeJS, MongoDB, React.
 
 ### Reinforcement Classes
@@ -41,7 +40,7 @@ GRC.
 - Help for the titular professor.
 - This course covers the elements of Programming Languages, Scheme and interpeters using PLAI.
 
-# Studies
+## Studies
 ### Computer Engineering (With honors)
 #### Universidad Católica del Norte, Chile. 2018 - 2023
 
@@ -52,7 +51,7 @@ GRC.
 - **English**: C2 (https://cert.efset.org/es/pb9jgQ) 
 - **Spanish**: Native
 
-# Project
+## Projects
 ### Chilemasto, Personal Project, Chile. 2019/09 - Present
 - Oldest active fediverse instances in Chile.
 - System administration and moderation of fediverse social media. First chilean fediverse still online.
