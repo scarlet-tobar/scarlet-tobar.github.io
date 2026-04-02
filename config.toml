@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir = true
 
 [languages]
 	[languages.en]
-		contentDir = 'content/en'
+		contentDir = 'content'
 		## Profile Configurations
 		[languages.en.params.profile]
 		  portrait = "p.png"
@@ -52,7 +52,7 @@ defaultContentLanguageInSubdir = true
 	      url = "https://github.com/scarlet-tobar/scarlet-tobar.github.io/raw/refs/heads/main/static/public.asc"
 	
     [languages.es]
-		contentDir= 'content/es'
+		contentDir= 'content'
 		## Profile Configurations
 		[languages.es.params.profile]
 		  portrait = "p.png"
