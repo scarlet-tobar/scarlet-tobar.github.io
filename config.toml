@@ -14,9 +14,8 @@ defaultContentLanguageInSubdir = true
 		  portrait = "p.png"
 		  firstname = "Scarlet"
 		  lastname = "Tobar"
-		  title = "Computer Engineer"
+		  title = "Computer Engineer - Universidad Católica del Norte"
 		  bio = """
-## Universidad Católica del Norte
 A responsible, asertive and persistent person, currently running public fediverse services. I have experience with GNU/Linux system administration, Fediverse, Python, Java, JavaScript, Office, Power BI, database connections, Git, LATEX and Scheme.
 
 ## Professional experience
@@ -112,9 +111,8 @@ GRC.
 		  portrait = "p.png"
 		  firstname = "Scarlet"
 		  lastname = "Tobar"
-		  title = "Ingeniera Civil en Computación e Informática"
+		  title = "Ingeniera Civil en Computación e Informática - Universidad Católica del Norte"
 		  bio = """
-## Universidad Católica del Norte
 Persona responsable, asertiva y perseverante, manteniendo servicios online a día de hoy. Experiencia con administración GNU/Linux, Fediverso, Python, JavaScript, Java, Office, Power BI, conexiones a bases de datos, Git, LATEX y Scheme. Además, Instaladora de gas Clase 3 certificada.
 
 ## Experiencia profesional
