@@ -16,66 +16,65 @@ defaultContentLanguageInSubdir = true
 		  lastname = "Tobar"
 		  title = "Computer Engineer"
 		  bio = """
-Universidad Católica del Norte
-A responsible, asertive and persistent person. I have experience with GNU/Linux system administration, Fediverse, Python, Java, JavaScript, Office, Power BI, database connections, Git, LATEXand Scheme.
-I am available as freelancer:
-- Coding lessons
-- Website building and maintenance
+## Universidad Católica del Norte
+A responsible, asertive and persistent person, currently running public fediverse services. I have experience with GNU/Linux system administration, Fediverse, Python, Java, JavaScript, Office, Power BI, database connections, Git, LATEX and Scheme.
 
-# Professional experience
+## Professional experience
 
-## Programming Languages Professor
-### Universidad Católica del Norte, Chile. 2026/03 - 2026/04
+### Programming Languages Professor
+#### Universidad Católica del Norte, Chile. 2026/03 - 2026/04
 - For Computeer Engineer students
-- Subject to analyze and understand different programming languages
+- Teached students to analyze and understand different programming languages
 
-## Web Data migration and full-stack development
-### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
+### Web Data migration and full-stack development
+#### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
 - Full-stack new features and data migration for Totoralillo, EIC’ web service.
+- Added new features and recolected and organized dispersed information to the website.
 - JavaScript, NodeJS, MongoDB, React.
 
-## Reinforcement Classes
-### Universidad Católica del Norte. 2024/10 - 2025/08
+### Reinforcement Classes
+#### Universidad Católica del Norte. 2024/10 - 2025/08
 - Classes made to support students who have failed multiple times a subject and are trying to improve.
+- Teached struggling students to improve their marks and pass their classes.
 - Subjects: Programming and Object Oriented Programming
 - Python, Java.
 
-## Planification of ISO/IEC 27001
-### Austranet, Santiago, Chile. 2023/08 - 2023/12
+### Planification of ISO/IEC 27001
+#### Austranet, Santiago, Chile. 2023/08 - 2023/12
 - Successful planification of a framework to start an ISO/IEC 27001 certificaction project inside the company, for Austranet-
 GRC.
 - Management and creation of documentation for ISO/IEC 27001 standard.
 - Planification on Gantt Chart, for its posterior implementation.
 
-## Internship (Data Analysis)
-### Falabella S.A., Chile. 2022/01 - 2022/03
+### Internship (Data Analysis)
+#### Falabella S.A., Chile. 2022/01 - 2022/03
 - Successful optimization of data extracting processes. Elimination of unnecessary steps, improving data connections to sources from Power BI.
 - Data extraction from different sources and databases.
 - Data analysis using Power BI.
 
-## Teacher Assistant
-### Universidad Católica del Norte. 2021/08 - 2023/07
+### Teacher Assistant
+#### Universidad Católica del Norte. 2021/08 - 2023/07
 - Lectures for students about Programming Languages.
 - Help for the titular professor.
 - This course covers the elements of Programming Languages, Scheme and interpeters using PLAI.
 
-# Studies
-## Computer Engineering (With honors)
-Universidad Católica del Norte, Chile. 2018 - 2023
+## Studies
+### Computer Engineer (With honors)
+#### Universidad Católica del Norte, Chile. 2018 - 2023
 
-## Instalador de Gas Clase 3
- SENCE course, CEGECAP, Chile. 2025
+### Gas Installer, Class 3
+#### SENCE course, CEGECAP, Chile. 2025
 
-# Languages
+## Languages
 - **English**: C2 (https://cert.efset.org/es/pb9jgQ) 
 - **Spanish**: Native
 
-# Projects
-## Chilemasto, Personal Project, Chile. 2019/09 - Present
-- Oldest active fediverse instances in Chile.
-- System administration and moderation of fediverse social media. First chilean fediverse still online.
-- Mastodon, Friendica.
-- Involves databases, web servers, packages and services management
+## Projects
+### Chilemasto, Personal Project, Chile. 2019/09 - Present
+- Running the oldest active fediverse instances in Chile.
+- Active system administration and moderation of fediverse social media. First chilean fediverse still online.
+- Software includes Mastodon and Friendica.
+- Involves databases, web servers, packages and services management.
           """
 
 
@@ -115,65 +114,63 @@ Universidad Católica del Norte, Chile. 2018 - 2023
 		  lastname = "Tobar"
 		  title = "Ingeniera Civil en Computación e Informática"
 		  bio = """
-Universidad Católica del Norte
-Persona responsable, asertiva y perseverante. Experiencia con administración GNU/Linux, Fediverso, Python, JavaScript, Java, Office, Power BI, conexiones a bases de datos, Git, LATEX y Scheme. Además, Instaladora de gas Clase 3 certificada.
-Me encuentro disponible para trabajos freelance:
-- Enseñanza de programación.
-- Levantamiento y mantención de páginas.
+## Universidad Católica del Norte
+Persona responsable, asertiva y perseverante, manteniendo servicios online a día de hoy. Experiencia con administración GNU/Linux, Fediverso, Python, JavaScript, Java, Office, Power BI, conexiones a bases de datos, Git, LATEX y Scheme. Además, Instaladora de gas Clase 3 certificada.
 
-# Experiencia profesional
+## Experiencia profesional
 
-## Docente de Lenguajes de Programación
-### Universidad Católica del Norte, Chile. 2026/03 - 2026/04
+### Docente de Lenguajes de Programación
+#### Universidad Católica del Norte, Chile. 2026/03 - 2026/04
 - Para alumnado de Ingeniería Civil en Computación e Informática.
-- Asignatura teórica para analizar y entender el funcionamiento y diseño de diferentes lenguajes de programación.
+- Enseñé al alumnado la asignatura teórica para analizar y entender el funcionamiento y diseño de diferentes lenguajes de programación.
 
-## Migración y desarrollo web
-### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
+### Migración y desarrollo web
+#### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
 - Migración de datos históricos y creación de múltiples características full-stack para la web Totoralillo en EIC.
+- Añadí nuevas características a la web, recopilé y centralicé información histórica en la misma. 
 - JavaScript, NodeJS, MongoDB, React.
 
-## Mentorías académicas
-### Universidad Católica del Norte, Chile. 2024/10 - 2025/08
+### Mentorías académicas
+#### Universidad Católica del Norte, Chile. 2024/10 - 2025/08
 - Apoyo académico disciplinar, destinado a estudiantes en alerta académica prioritaria en el Departamento de Éxito Académico.
-- Asignaturas de Programación y Programación orientada a objetos. Basado en Python y Java.
+- Ayudé a los alumnos a mejorar sus notas y conseguir aprobar sus cursos relacionados a programación.
+- Asignatura: Programación y Programación orientada a objetos. Basado en Python y Java.
 
-## Planificación para ISO/IEC 27001:2022
-### Austranet, Santiago, Chile. 2023/08 - 2023/12
+### Planificación para ISO/IEC 27001:2022
+#### Austranet, Santiago, Chile. 2023/08 - 2023/12
 - Su objetivo era implementar a futuro ese estándar en AustranetGRC
-- Realización exitosa de una base para la posterior certificación de una empresa en ISO/IEC 27001.
-- Gestión y fabricación de documentos requeridos para la norma ISO/IEC 27001.
+- Nuestro equipo realizó exitosamente una base documental para una futur certificación de la empresa en ISO/IEC 27001. Gestionamos y fabricamos los documentos requeridos para la norma ISO/IEC 27001.
 - Planificación de hitos y sucesos en carta Gantt para su posterior implementación.
 
-## Practicante (Analista de datos)
-### Falabella, Chile. 2022/01 - 2022/03
+### Practicante (Analista de datos)
+#### Falabella, Chile. 2022/01 - 2022/03
 - Área Ciberseguridad - Análisis de datos
-- Optimización exitosa de procesos de obtención de datos. Eliminación de intermediarios innecesarios para acceder a
-fuentes desde Power BI.
-- Obtención de datos de distintas fuentes de información y bases de datos.
-- Análisis de datos obtenidos mediante Power BI.
+- Optimicé exitosamente procesos de obtención de datos mediante la eliminación de intermediarios innecesarios para acceder a fuentes desde Power BI usando distintas fuentes de información y bases de datos.
+- Analicé estos datos obtenidos mediante Power BI.
 
-## Ayudante de Cátedra
-### Universidad Católica del Norte, Coquimbo, Chile. 2021/08 - 2023/07
-- Realización de Ayudantías para los alumnos de Lenguajes de Programación.
-- Apoyo para el profesor de la asignatura.
+### Ayudante de Cátedra
+#### Universidad Católica del Norte, Coquimbo, Chile. 2021/08 - 2023/07
+- Realizé de Ayudantías para los alumnos de Lenguajes de Programación que ayudaron a los alumnos y apoyé al profesor de la asignatura.
 - El curso cubre los elementos de un lenguaje de programación, Scheme e intérpretes con la ayuda de PLAI.
 
-# Formación
-## Ingeniería Civil en Computación e Informática (con distinción)
-Universidad Católica del Norte, Chile. 2018 - 2023
+## Formación
+### Ingeniera Civil en Computación e Informática (con distinción)
+#### Universidad Católica del Norte, Chile. 2018 - 2023
 
-## Instalador de Gas Clase 3
-Curso SENCE, CEGECAP, Chile. 2025
 
-# Idiomas
+### Instalador de Gas Clase 3
+#### Curso SENCE, CEGECAP, Chile. 2025
+
+
+## Idiomas
 - **Inglés**: C2 (https://cert.efset.org/es/pb9jgQ)
 - **Español**: Nativo
 
-# Proyectos
-## Chilemasto
-### Proyecto propio, Chile. 2019/09 - Presente
-- Instancias de fediverso activas más antiguas del país. Administración de sistemas y moderación de redes sociales del fediverso tipo Mastodon y Friendica en un servidor GNU/Linux. 
+
+## Proyectos
+### Chilemasto
+#### Proyecto propio, Chile. 2019/09 - Presente
+-  Mantengo las instancias de fediverso activas más antiguas del país. Administro y modero unas redes sociales del fediverso tipo Mastodon y Friendica en un servidor GNU/Linux a día de hoy.
 - Implica administración de: BBDD, servidores web, instalación de paquetes y servicios, etc.
           """
 
