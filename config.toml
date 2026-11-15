@@ -17,68 +17,6 @@ defaultContentLanguageInSubdir = true
 		  title = "Computer Engineer - Universidad Católica del Norte"
 		  bio = """
 A responsible, asertive and persistent person, currently running public fediverse services. I have experience with GNU/Linux system administration, Fediverse, Python, Java, JavaScript, Office, Power BI, database connections, Git, LATEX and Scheme.
-
-## Professional experience
-
-### Web migration and desinfection
-#### Tsonami. 2026/08 - 2026/10
-- Team migrated 10 webpages and multiple emails for the organization.
-- I administrated the systems of the new host, corrected errors and migrated emails.
-
-### Programming Languages Professor
-#### Universidad Católica del Norte, Chile. 2026/03 - 2026/04
-- For Computeer Engineer students
-- Teached students to analyze and understand different programming languages
-
-### Web Data migration and full-stack development
-#### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
-- Full-stack new features and data migration for Totoralillo, EIC’ web service.
-- Added new features and recolected and organized dispersed information to the website.
-- JavaScript, NodeJS, MongoDB, React.
-
-### Reinforcement Classes
-#### Universidad Católica del Norte. 2024/10 - 2025/08
-- Classes made to support students who have failed multiple times a subject and are trying to improve.
-- Teached struggling students to improve their marks and pass their classes.
-- Subjects: Programming and Object Oriented Programming
-- Python, Java.
-
-### Planification of ISO/IEC 27001
-#### Austranet, Santiago, Chile. 2023/08 - 2023/12
-- Successful planification of a framework to start an ISO/IEC 27001 certificaction project inside the company, for Austranet-
-GRC.
-- Management and creation of documentation for ISO/IEC 27001 standard.
-- Planification on Gantt Chart, for its posterior implementation.
-
-### Internship (Data Analysis)
-#### Falabella S.A., Chile. 2022/01 - 2022/03
-- Successful optimization of data extracting processes. Elimination of unnecessary steps, improving data connections to sources from Power BI.
-- Data extraction from different sources and databases.
-- Data analysis using Power BI.
-
-### Teacher Assistant
-#### Universidad Católica del Norte. 2021/08 - 2023/07
-- Lectures for students about Programming Languages.
-- Help for the titular professor.
-- This course covers the elements of Programming Languages, Scheme and interpeters using PLAI.
-
-## Studies
-### Computer Engineer (With honors)
-#### Universidad Católica del Norte, Chile. 2018 - 2023
-
-### Gas Installer, Class 3
-#### SENCE course, CEGECAP, Chile. 2025
-
-## Languages
-- **English**: C2 (https://cert.efset.org/es/pb9jgQ) 
-- **Spanish**: Native
-
-## Projects
-### Chilemasto, Personal Project, Chile. 2019/09 - Present
-- Running the oldest active fediverse instances in Chile.
-- Active system administration and moderation of fediverse social media. First chilean fediverse still online.
-- Software includes Mastodon and Friendica.
-- Involves databases, web servers, packages and services management.
           """
 
 
@@ -99,7 +37,7 @@ GRC.
 
 		[[languages.en.params.actions]]
 		  name = "CV"
-		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-EN.pdf"
+		  url = "https://scarlet-tobar.work/en/cv/"
 		
         [[languages.en.params.actions]]
   		  name = "Add Contact (.vcf)"
@@ -119,67 +57,6 @@ GRC.
 		  title = "Ingeniera Civil en Computación e Informática - Universidad Católica del Norte"
 		  bio = """
 Persona responsable, asertiva y perseverante, manteniendo servicios online a día de hoy. Experiencia con administración GNU/Linux, Fediverso, Python, JavaScript, Java, Office, Power BI, conexiones a bases de datos, Git, LATEX y Scheme. Además, Instaladora de gas Clase 3 certificada.
-
-## Experiencia profesional
-
-### Migración y desinfección web de servicios
-#### Tsonami. 2026/08 - 2026/10
-- El equipo migró 10 páginas webs y múltiples correos para la organización.
-- Me encargué de la administración de sistemas del host nuevo, correcciones de problemas y la migración de correo.
-
-### Docente de Lenguajes de Programación
-#### Universidad Católica del Norte, Chile. 2026/03 - 2026/04
-- Para alumnado de Ingeniería Civil en Computación e Informática.
-- Enseñé al alumnado la asignatura teórica para analizar y entender el funcionamiento y diseño de diferentes lenguajes de programación.
-
-### Migración y desarrollo web
-#### Universidad Católica del Norte, Chile. 2025/09 - 2025/12
-- Migración de datos históricos y creación de múltiples características full-stack para la web Totoralillo en EIC.
-- Añadí nuevas características a la web, recopilé y centralicé información histórica en la misma. 
-- JavaScript, NodeJS, MongoDB, React.
-
-### Mentorías académicas
-#### Universidad Católica del Norte, Chile. 2024/10 - 2025/08
-- Apoyo académico disciplinar, destinado a estudiantes en alerta académica prioritaria en el Departamento de Éxito Académico.
-- Ayudé a los alumnos a mejorar sus notas y conseguir aprobar sus cursos relacionados a programación.
-- Asignatura: Programación y Programación orientada a objetos. Basado en Python y Java.
-
-### Planificación para ISO/IEC 27001:2022
-#### Austranet, Santiago, Chile. 2023/08 - 2023/12
-- Su objetivo era implementar a futuro ese estándar en AustranetGRC
-- Nuestro equipo realizó exitosamente una base documental para una futur certificación de la empresa en ISO/IEC 27001. Gestionamos y fabricamos los documentos requeridos para la norma ISO/IEC 27001.
-- Planificación de hitos y sucesos en carta Gantt para su posterior implementación.
-
-### Practicante (Analista de datos)
-#### Falabella, Chile. 2022/01 - 2022/03
-- Área Ciberseguridad - Análisis de datos
-- Optimicé exitosamente procesos de obtención de datos mediante la eliminación de intermediarios innecesarios para acceder a fuentes desde Power BI usando distintas fuentes de información y bases de datos.
-- Analicé estos datos obtenidos mediante Power BI.
-
-### Ayudante de Cátedra
-#### Universidad Católica del Norte, Coquimbo, Chile. 2021/08 - 2023/07
-- Realizé de Ayudantías para los alumnos de Lenguajes de Programación que ayudaron a los alumnos y apoyé al profesor de la asignatura.
-- El curso cubre los elementos de un lenguaje de programación, Scheme e intérpretes con la ayuda de PLAI.
-
-## Formación
-### Ingeniera Civil en Computación e Informática (con distinción)
-#### Universidad Católica del Norte, Chile. 2018 - 2023
-
-
-### Instalador de Gas Clase 3
-#### Curso SENCE, CEGECAP, Chile. 2025
-
-
-## Idiomas
-- **Inglés**: C2 (https://cert.efset.org/es/pb9jgQ)
-- **Español**: Nativo
-
-
-## Proyectos
-### Chilemasto
-#### Proyecto propio, Chile. 2019/09 - Presente
--  Mantengo las instancias de fediverso activas más antiguas del país. Administro y modero unas redes sociales del fediverso tipo Mastodon y Friendica en un servidor GNU/Linux a día de hoy.
-- Implica administración de: BBDD, servidores web, instalación de paquetes y servicios, etc.
           """
 
 
@@ -199,7 +76,7 @@ Persona responsable, asertiva y perseverante, manteniendo servicios online a dí
 		  
 		[[languages.es.params.actions]]
 		  name = "CV"
-		  url = "https://raw.githubusercontent.com/scarlet-tobar/scarlet-tobar.github.io/main/static/CV-ES.pdf"
+		  url = "https://scarlet-tobar.work/es/cv/"
 
         [[languages.es.params.actions]]
   		  name = "Añadir contacto (.vcf)"
